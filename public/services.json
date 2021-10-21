@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Pediatrics",
+        "description": "At UCLA Health, we partner with families to deliver expert, compassionate care to infants, children and teens.",
+        "img": "https://i.ibb.co/D4b1X4K/Service-1-2.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Cardiology",
+        "description": "Our comprehensive heart services include general and preventive cardiology, cardiac testing and imaging, specialized cardiology and cardiac surgery.",
+        "img": "https://i.ibb.co/cQFZVRN/Service-2-1.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Neurosurgery",
+        "description": "Our top-rated neurosurgeons use advanced imaging and surgical techniques to treat neurological conditions, such as brain tumors and traumatic brain injury.",
+        "img": "https://i.ibb.co/gZMMyyL/Service-3-1.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Cancer Care",
+        "description": "UCLA Health patients can expect comprehensive and individualized cancer care, delivered in convenient locations across Southern California.",
+        "img": "https://i.ibb.co/pJYfQFr/Service-4-1.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Brain Cancer",
+        "description": "Recognized as a top 10 hospital for brain cancer care, the UCLA Health Brain Tumor Center offers the most medically advanced treatments and leading-edge research.",
+        "img": "https://i.ibb.co/3YJRHKL/brain-cancer-1.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Breast Cancer Care",
+        "description": "Our world-renowned breast cancer experts deliver individualized, comprehensive and compassionate care to breast cancer patients.",
+        "img": "https://i.ibb.co/bHCc5Lk/Service-6-1.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Colorectal Cancer",
+        "description": "At UCLA Health, we combine our world-renowned expertise in colorectal cancer with empathetic, high-quality care.",
+        "img": "https://i.ibb.co/85ZpbxT/Service-7-1.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Esophageal Cancer",
+        "description": "At the UCLA Robert G. Kardashian Center for Esophageal Health, we combine expertise and innovation to create the ideal healing environment for people with esophageal cancer.",
+        "img": "https://i.ibb.co/TMTg0hZ/Service-8-1.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Pediatric Beriberi",
+        "description": "At the UCLA Robert G. Kardashian Center for Esophageal Health, we combine expertise and innovation to create the ideal healing environment for people with esophageal cancer.",
+        "img": "https://i.ibb.co/TMTg0hZ/Service-8-1.jpg"
+    }
+]
