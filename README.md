@@ -2,7 +2,7 @@
 
 
 
-liveserver link==https://clever-hodgkin-d8db96.netlify.app/home
+liveserver link==https://clever-hodgkin-d8db96.netlify.app/
 
 
 
